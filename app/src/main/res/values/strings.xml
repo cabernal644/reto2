@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">reto2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Menu</string>
+    <string name="menu_gallery">Encuentranos</string>
+    <string name="menu_slideshow">A domicilio</string>
+    <string name="menu_servicios">Servicios</string>
+    <string name="favfastpizza1">favoritos</string>
+
+</resources>
